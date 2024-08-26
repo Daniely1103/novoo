@@ -7,41 +7,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     
   {
-    enunciado: "A poluição do ar está se tornando um problema crítico em muitas cidades?",
+    enunciado: 
     alternativas: [
         {
-            texto: "Sim, a poluição do ar está se tornando um problema crítico em muitas cidades.",
-            afirmacao: "A poluição do ar está se tornando um problema crítico em muitas cidades.",
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, a poluição do ar não está se tornando um problema crítico em muitas cidades.",
-            afirmacao: "A poluição do ar não está se tornando um problema crítico em muitas cidades.",
+            texto: 
+            afirmacao:
         }
     ]
 },
 {
-    enunciado: "As escolas incentivarão a reciclagem e a redução de resíduos entre os alunos?",
+    enunciado:
     alternativas: [
         {
-            texto: "Sim, as escolas incentivarão a reciclagem e a redução de resíduos entre os alunos.",
-            afirmacao: "As escolas incentivarão a reciclagem e a redução de resíduos entre os alunos."
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, as escolas não incentivarão a reciclagem e a redução de resíduos entre os alunos.",
-            afirmacao: "As escolas não incentivarão a reciclagem e a redução de resíduos entre os alunos."
+            texto: 
+            afirmacao:
         }
     ]
 },
 {
-    enunciado: "Haverá um aumento no uso de energias renováveis em áreas urbanas?",
+    enunciado: 
     alternativas: [
         {
-            texto: "Sim, haverá um aumento no uso de energias renováveis em áreas urbanas.",
-            afirmacao: "Haverá um aumento no uso de energias renováveis em áreas urbanas."
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, não haverá um aumento no uso de energias renováveis em áreas urbanas.",
-            afirmacao: "Não haverá um aumento no uso de energias renováveis em áreas urbanas."
+            texto: 
+            afirmacao: 
         }
     ]
 },
