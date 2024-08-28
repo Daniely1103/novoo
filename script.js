@@ -44,34 +44,33 @@ const perguntas = [
             afirmacao: 
         }
     ]
-},
+}
 {
-    enunciado: "As políticas ambientais contribuirão para a conservação dos recursos hídricos?",
-    alternativas: [
+    enunciado: 
+    alternativas: 
         {
-            texto: "Sim, as políticas ambientais contribuirão para a conservação dos recursos hídricos.",
-            afirmacao: "As políticas ambientais contribuirão para a conservação dos recursos hídricos."
-        },
+            texto: 
+            afirmacao: 
+        }
         {
-            texto: "Não, as políticas ambientais não contribuirão para a conservação dos recursos hídricos.",
-            afirmacao: "As políticas ambientais não contribuirão para a conservação dos recursos hídricos."
+            texto:
+            afirmacao:
         }
     ]
-},
+}
 {
-    enunciado: "Os governos aumentarão as áreas protegidas para preservar a biodiversidade?",
+    enunciado:
     alternativas: [
         {
-            texto: "Sim, os governos aumentarão as áreas protegidas para preservar a biodiversidade.",
-            afirmacao: "Os governos aumentarão as áreas protegidas para preservar a biodiversidade."
-        },
-        {
-            texto: "Não, os governos não aumentarão as áreas protegidas para preservar a biodiversidade.",
-            afirmacao: "Os governos não aumentarão as áreas protegidas para preservar a biodiversidade."
+            texto: 
+            afirmacao: 
         }
+        {
+            texto:
+            afirmacao: 
     ]
- },
-];
+ }
+]
 
 let atual = 0;
 let perguntaAtual;
